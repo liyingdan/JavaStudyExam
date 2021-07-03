@@ -1,2 +1,2 @@
 # JavaStudyExam
-学习Java练习笔记
+学习Java时的练习代码
